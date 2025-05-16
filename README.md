@@ -58,7 +58,7 @@ Este repositório é mantido pela Prof. Ana Isabel Castillo. Sugestões de melho
 - **Email**: [anacp20@gmail.com](mailto:anacp20@gmail.com)
 - **GitHub**: [@IsabelCasPe](https://github.com/IsabelCasPe)
 
-## Agradecimentos
+## Agradecimentos 
 
 Obrigada por usar este material! Espero que ele te ajude a explorar o fascinante mundo do Controle Linear, com um toque de finanças e muita prática. Compartilhe com seus colegas e bora aprender juntos! :) 
 
