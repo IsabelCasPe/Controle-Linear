@@ -40,6 +40,21 @@ Este material está licenciado sob a **[Creative Commons Attribution-NonCommerci
   - **Atribuição**: Dê crédito à autora, Prof. Ana Isabel Castillo.
   - **Não comercial**: Não use o material para fins comerciais.
   - **Sem derivações**: Não modifique ou crie obras derivadas sem permissão.
+  - controle-linear-slides/
+├── cap1/
+│   └── cap1.pdf
+├── cap2/
+│   └── cap2.pdf
+├── cap3/
+│   └── cap3.pdf
+├── cap4/
+│   └── cap4.pdf
+├── cap5/
+│   └── cap5.pdf
+├── cap6/
+│   └── cap6.pdf
+├── LICENSE.md
+├── README.md
 
 Para uso fora dessas condições, entre em contato com a autora. Uso indevido será reportado.
 
