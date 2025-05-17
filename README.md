@@ -36,6 +36,24 @@ Os materiais estão organizados em pastas por capítulo, com slides em PDF e LaT
    - [Overleaf](https://www.overleaf.com) para compilar LaTeX.
    - [MATLAB](https://www.mathworks.com) ou [Octave](https://octave.org) para simulações.
    - [Python](https://www.python.org) com biblioteca `control` (`pip install control`).
+     # Códigos Python para Controle Linear
+
+ Aqui você encontra scripts em Python que complementam os slides, com simulações de sistemas dinâmicos e controles. Os códigos são didáticos, comentados e prontos para rodar em Jupyter Notebook, Google Colab ou sua IDE favorita.
+
+## Como Usar
+1. **Requisitos**:
+   - Instale as bibliotecas: `pip install numpy matplotlib scipy`
+   - Use Python 3.6 ou superior.
+2. **Execução**:
+   - Baixe os arquivos `.py` e rode em um ambiente Python.
+   - Recomenda-se Jupyter Notebook ou Colab para gráficos interativos.
+3. **Capítulos**:
+   - Cap1_SistemasDinamicos.ipynb: Introdução a sistemas de 1ª ordem, com simulação de resposta temporal e gráficos.
+
+## Exemplo
+Para rodar o código introdutório do Capítulo 1:
+```bash
+python `Cap1_SistemasDinamicos.ipynb`
 
 ## Licença
 
@@ -46,11 +64,11 @@ Este material está licenciado sob a **[Creative Commons Attribution-NonCommerci
   - **Não comercial**: Não use o material para fins comerciais.
   - **Sem derivações**: Não modifique ou crie obras derivadas sem permissão.
 
-Para uso fora dessas condições, entre em contato com a autora. Uso indevido será reportado.
+Para uso fora dessas condições, entre em contato com a autora. Uso indevido será reportado.:)
 
 ## Contribuições
 
-Este repositório é mantido pela Prof. Ana Isabel Castillo. Sugestões de melhorias, como novos exemplos ou correções, são bem-vindas! Envie suas ideias por email ou abra uma [issue](https://github.com/IsabelCasPe/controle-linear-slides/issues) no GitHub.
+Este repositório é mantido pela Prof. Ana Isabel Castillo. Sugestões de melhorias, como novos exemplos ou correções, são bem-vindas! Envie suas ideias por email ou abra uma conta  no GitHub.
 
 ## Contato
 
