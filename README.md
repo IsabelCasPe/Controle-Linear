@@ -15,12 +15,12 @@ Os materiais estão organizados em pastas por capítulo, com slides em PDF e LaT
 
 ### Conteúdos Atuais
 - **Slides em LaTeX e PDF**: Seis capítulos cobrindo os fundamentos de Controle Linear.
-  - [Capítulo 1: Introdução](cap1/cap1.pdf) ([LaTeX](cap1/cap1.tex))
-  - [Capítulo 2: Modelagem de Sistemas Dinâmicos](cap2/cap2.pdf) ([LaTeX](cap2/cap2.tex))
-  - [Capítulo 3: Análise no Domínio do Tempo](cap3/cap3.pdf) ([LaTeX](cap3/cap3.tex))
-  - [Capítulo 4: Análise no Domínio da Frequência](cap4/cap4.pdf) ([LaTeX](cap4/cap4.tex))
-  - [Capítulo 5: Projeto de Controladores](cap5/cap5.pdf) ([LaTeX](cap5/cap5.tex))
-  - [Capítulo 6: Tópicos Avançados e Aplicações](cap6/cap6.pdf) ([LaTeX](cap6/cap6.tex))
+  - [Capítulo 1: Introdução](cap1.pdf) ([LaTeX](cap1.tex))
+  - [Capítulo 2: Modelagem de Sistemas Dinâmicos](cap2.pdf) ([LaTeX](cap2.tex))
+  - [Capítulo 3: Análise no Domínio do Tempo](cap3.pdf) ([LaTeX](cap3.tex))
+  - [Capítulo 4: Análise no Domínio da Frequência](cap4.pdf) ([LaTeX](cap4.tex))
+  - [Capítulo 5: Projeto de Controladores](cap5.pdf) ([LaTeX](cap5.tex))
+  - [Capítulo 6: Tópicos Avançados e Aplicações](cap6.pdf) ([LaTeX](cap6.tex))
 
 ### Conteúdos Futuros
 - **Exercícios Práticos**: Problemas resolvidos e propostos para cada capítulo, com foco em aplicações financeiras e engenharia.
