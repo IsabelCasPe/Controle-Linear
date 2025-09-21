@@ -49,12 +49,6 @@ Os materiais estão organizados em pastas por capítulo, com slides em PDF e LaT
    - Recomenda-se Jupyter Notebook ou Colab para gráficos interativos.
 3. **Capítulos**:
    - Cap1_SistemasDinamicos.ipynb: Introdução a sistemas de 1ª ordem, com simulação de resposta temporal e gráficos.
-
-## Exemplo
-Para rodar o código introdutório do Capítulo 1:
-```bash
-python `Cap1_SistemasDinamicos.ipynb`
-
 ## Licença
 
 Este material está licenciado sob a **[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)**. Você pode:
@@ -80,6 +74,16 @@ Este repositório é mantido pela Prof. Ana Isabel Castillo. Sugestões de melho
 
 Obrigada por usar este material! Espero que ele te ajude a explorar o fascinante mundo do Controle Linear, com um toque de finanças e muita prática. Compartilhe com seus colegas e bora aprender juntos! :) 
 
+Desenvolvido com 💙 por Prof. Ana Isabel Castillo.
 ---
 
-Desenvolvido com 💙 por Prof. Ana Isabel Castillo.
+## Inspiration.
+> "Nos circuitos do controle, a estabilidade enfrenta a incerteza @Controle_Linear, onde a matemática assegura o equilíbrio do sistema." ⚙️📐📊🎛️
+> Copyright © 2025 Prof. Ana Isabel C. 💙
+---
+## Exemplo
+Para rodar o código introdutório do Capítulo 1:
+```bash
+python `Cap1_SistemasDinamicos.ipynb`
+
+
