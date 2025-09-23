@@ -1,4 +1,15 @@
-# Controle Linear - Materiais Didáticos
+<!-- HERO -->
+# Arte & Ciência em Movimento — Matemática Viva 💎✨
+
+![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-gold)
+![Made with ❤](https://img.shields.io/badge/Made%20with-❤-ff69b4)
+
+**PT · EN · ES** · [Galeria](#galeria--gifs) · [Instalação](#instalação--installation--instalación) · [Licença MIT](#licença--license--licencia)
+
+---
+## Controle Linear - Materiais Didáticos
 
 Bem-vindo ao repositório de materiais didáticos da disciplina **Controle Linear**, desenvolvido pela **Prof. Ana Isabel Castillo**. Este projeto reúne slides em LaTeX, exercícios práticos, projetos aplicados e códigos (MATLAB/Python) com foco em aplicações financeiras e de engenharia. Perfeito para estudantes, professores e entusiastas que querem dominar sistemas de controle com uma abordagem prática e conectada ao mundo real!
 
