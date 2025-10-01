@@ -62,7 +62,7 @@ Os materiais estão organizados em pastas por capítulo, com slides em PDF e LaT
    - Cap1_SistemasDinamicos.ipynb: Introdução a sistemas de 1ª ordem, com simulação de resposta temporal e gráficos.
 ## Licença
 
-Este material está licenciado sob a **[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)**. Você pode:
+Este material está licenciado sob a **[License Apache](License-Apache)**. Você pode:
 - **Compartilhar**: Copiar e redistribuir o material em qualquer meio ou formato.
 - **Com as condições**:
   - **Atribuição**: Dê crédito à autora, Prof. Ana Isabel Castillo.
